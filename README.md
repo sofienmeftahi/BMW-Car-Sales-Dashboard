@@ -1,5 +1,4 @@
 # BMW Car Sales Dashboard
-
 ![Dashboard Screenshot](dashboard.png)
 ![Dashboard Screenshot](dashboards.png)
 ![Dashboard Screenshot](dashboard_scr.png)
