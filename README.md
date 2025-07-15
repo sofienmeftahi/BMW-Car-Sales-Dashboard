@@ -1,5 +1,5 @@
 # BMW Car Sales Dashboard
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 ![Dashboard Screenshot](dashboards.png)
 ![Dashboard Screenshot](dashboard_scr.png)
 
@@ -50,8 +50,7 @@ This interactive dashboard allows you to explore and visualize BMW car sales dat
 - The dataset used: `BMW_Car_Sales_Classification.csv`
 - (Optional) Replace with your own data for other car brands or sales analytics.
 
-## Screenshot
-![Dashboard Screenshot](dashboard_screenshot.png)
+
 
 ## Credits
 Developed by **Sofien Meftahi**
